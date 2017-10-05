@@ -1,2 +1,2 @@
 # oe_chef
-Chef cookbook
+Chef cookbook - Massimo Danieli
